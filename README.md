@@ -86,7 +86,7 @@ rails s
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/zieeco/hello-rails-react.git/issues).
+Feel free to check the [issues page](https://github.com/zieeco/hello-rails-back-end.git/issues).
 
 ## Show your support
 
@@ -99,3 +99,6 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
+
+https://github.com/zieeco/hello-react-front-end.git
