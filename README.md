@@ -5,7 +5,7 @@
 This app covers how to setup a rails API app as a single app whiich serves as the Back-end, integrating the react app as the  Front-end.
 
 ## Front-End App
-- [Fron-end App github repository](https://github.com/zieeco/hello-react-front-end)
+- [Front-end App github repository](https://github.com/zieeco/hello-react-front-end)
 
 ## Built With
 
